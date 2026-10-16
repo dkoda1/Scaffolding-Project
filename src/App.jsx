@@ -16,9 +16,9 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Get started</h1>
+          <h1>Daina's React App Deployment</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+            Demonstrating the power of  <strong>CI/CD</strong>. 
           </p>
         </div>
         <button
